@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue-remote</string>
+    <string name="title_activity_main">vue-remote</string>
+    <string name="package_name">com.codecarreira.remote</string>
+    <string name="custom_url_scheme">com.codecarreira.remote</string>
+</resources>

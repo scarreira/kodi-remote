@@ -1,0 +1,13 @@
+{
+  "appId": "com.codecarreira.remote",
+  "appName": "vue-remote",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
