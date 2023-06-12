@@ -24,5 +24,6 @@ wget https://bootstrap.pypa.io/get-pip.py && python get-pip.py
 
 Note that this was made this way, because my device is running LibreELEC and it does not allow installations outside of Kodi, but it does run python.
 
+Change the URL auth to match your user:password for Kodi Web 8080
 
 [server.py](https://github.com/scarreira/kodi-remote/blob/main/server/server.py)
