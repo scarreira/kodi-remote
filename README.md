@@ -6,7 +6,7 @@ A kodi remote developed for rapsberri pi with TVHeadend running LibreELEC
 Once that is done you can build it just like they state on their documentation
 
 # Note mobile deploy
-To deploy for mobile devices you need to run one of this commands
+To deploy for mobile devices you need to run one of this commands, or the code will not be updated and the last build will be used
 
 ```
 npm run build  OR npx cap sync
