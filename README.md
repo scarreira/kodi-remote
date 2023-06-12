@@ -25,4 +25,4 @@ wget https://bootstrap.pypa.io/get-pip.py && python get-pip.py
 Note that this was made this way, because my device is running LibreELEC and it does not allow installations outside of Kodi, but it does run python.
 
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[server.py](https://github.com/scarreira/kodi-remote/blob/main/server/server.py)
