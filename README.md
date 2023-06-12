@@ -1,5 +1,5 @@
 # kodi-remote
-A kodi remote developed for rapsberri pi with TVHeadend running LibreELEC
+A kodi remote developed for rapsberry pi with TVHeadend running LibreELEC
 
 
 # To run this app you will need to go trough the capacitor setup guide
