@@ -27,3 +27,7 @@ Note that this was made this way, because my device is running LibreELEC and it 
 Change the URL auth to match your user:password for Kodi Web 8080 (feel free to add an index.html to give some feedback when acessing the root path of the server)
 
 [server.py](https://github.com/scarreira/kodi-remote/blob/main/server/server.py)
+
+
+
+<a href="https://www.buymeacoffee.com/codecarreira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
